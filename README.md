@@ -1,2 +1,2 @@
-# bettervending-catalogues
-Snack and Drink catalogues 
+# bettervending-snack-catalogue
+Snack catalogue 
